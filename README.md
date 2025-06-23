@@ -3,7 +3,8 @@
 Disk Manager is an academic prototype that **simulates disk scheduling algorithms, RAID levels, and file-allocation strategies** on embedded hardware (🧠 **Arduino / Raspberry Pi Pico**, ⏱️ **FreeRTOS**, 💾 **SD card**).  
 The system visualises operations through a serial interface (or an optional LCD) so students can observe real-time seek movements, block writes, and journalling.
 
----
+
+
 
 ## 🚀 Features
 
@@ -25,7 +26,9 @@ The system visualises operations through a serial interface (or an optional LCD)
 - ✅ **SD-card block I/O latency simulation**  
 - ✅ **Modular I/O expansion** (LCD, buzzer, serial plotter, …)
 
----
+
+
+
 
 ## 🧪 Project Components
 
@@ -37,7 +40,9 @@ The system visualises operations through a serial interface (or an optional LCD)
 | 💾 **SD Card Module**     | Disk-block + journal storage       |
 | 🔧 **Serial Monitor**     | CLI + live log display             |
 
----
+
+
+
 
 ## 💻 Installation & Usage
 
